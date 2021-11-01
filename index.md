@@ -1,18 +1,21 @@
----
-layout: default
----
+#Working in Harman
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Link to Company Website](https://www.harman.com/).
 
 # Project 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Title : ToyotaCY20
+Duration : Oct, 2019 – Till Date
+Client : Toyota
+Team Size : 2
+Language : C++
+Description :
+The project involves design and development of software for the Infotainment System of Car, that offers Radio, 
+Audio, Car Play Features runs on Linux platform.
+Responsibilities:
+• Working as Feature Owner.
+• Involves in Design,Coding, review.
+• Analyzing the defects found during testing and reported by customers and fixing them
 
 ## Project 2
 
