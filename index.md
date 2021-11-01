@@ -4,17 +4,15 @@
 
 # Project 1
 
-Title : ToyotaCY20
-Duration : Oct, 2019 – Till Date
-Client : Toyota
-Team Size : 2
-Language : C++
-Description :
 The project involves design and development of software for the Infotainment System of Car, that offers Radio, 
 Audio, Car Play Features runs on Linux platform.
+
 Responsibilities:
-• Working as Feature Owner.
+
+• Working as Feature Owner for Audio.
+
 • Involves in Design,Coding, review.
+
 • Analyzing the defects found during testing and reported by customers and fixing them
 
 ## Project 2
