@@ -3,7 +3,7 @@ logo: /assets/img/pic.jpg
 description:
   <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/its-praveenkumar/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/its-praveen-kumar/">LinkedIn</a> |
   <a href="https://github.com/praveenkumar5188">GitHub</a>
   
   <br>   
@@ -11,6 +11,6 @@ description:
   Working in Harman International since 2 years.
   <br>
   </p>
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
