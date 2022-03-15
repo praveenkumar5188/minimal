@@ -4,8 +4,8 @@
 
 # Project 1
 
-The project involves design and development of software for the Infotainment System of Car, that offers Radio, 
-Audio, Car Play Features runs on Linux platform.
+The project involves design and development of software for the Infotainment System of Car, that offers Tuner FM/AM/DAB, 
+USB, Projection(carplay,Android Auto) Features runs on Linux platform.
 
 Responsibilities:
 
@@ -17,9 +17,16 @@ Responsibilities:
 
 ## Project 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+The project involves design and development of software for the Infotainment System of Car, that offers Tuner FM/AM/DAB, 
+USB, Projection(carplay,Android Auto) Features runs on Linux platform.
+
+Responsibilities:
+
+• Working as Feature Owner for Audio.
+
+• Involves in Design,Coding, review.
+
+• Analyzing the defects found during testing and reported by customers and fixing them
 
 ### Project 3
 
